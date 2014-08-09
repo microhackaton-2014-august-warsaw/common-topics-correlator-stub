@@ -1,4 +1,4 @@
-Twitter Places Analyzer Microservice Stub
+Common Topics Correlator Microservice Stub
 ======================
 
 ## Build status
